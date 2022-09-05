@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "7VfJ/mk1BZ/GDmUX1X5LRq5fyDddfdPUfnE4XBR234c=",
+  "Source": "ProductStockApi",
+  "BasePath": "_content/ProductStockApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ProductStockApi\\wwwroot",
+      "Source": "ProductStockApi",
+      "ContentRoot": "C:\\Users\\u.axverdiyeva\\Source\\Repos\\ProductsApi\\ProductStockApi\\wwwroot\\",
+      "BasePath": "_content/ProductStockApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\u.axverdiyeva\\Source\\Repos\\ProductsApi\\ProductStockApi\\wwwroot\\logs\\05-09-2022_15-25-50.txt",
+      "SourceId": "ProductStockApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\u.axverdiyeva\\Source\\Repos\\ProductsApi\\ProductStockApi\\wwwroot\\",
+      "BasePath": "_content/ProductStockApi",
+      "RelativePath": "logs/05-09-2022_15-25-50.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\logs\\05-09-2022_15-25-50.txt"
+    },
+    {
+      "Identity": "C:\\Users\\u.axverdiyeva\\Source\\Repos\\ProductsApi\\ProductStockApi\\wwwroot\\logs\\05-09-2022_15-27-32.txt",
+      "SourceId": "ProductStockApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\u.axverdiyeva\\Source\\Repos\\ProductsApi\\ProductStockApi\\wwwroot\\",
+      "BasePath": "_content/ProductStockApi",
+      "RelativePath": "logs/05-09-2022_15-27-32.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\logs\\05-09-2022_15-27-32.txt"
+    },
+    {
+      "Identity": "C:\\Users\\u.axverdiyeva\\Source\\Repos\\ProductsApi\\ProductStockApi\\wwwroot\\logs\\05-09-2022_15-27-52.txt",
+      "SourceId": "ProductStockApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\u.axverdiyeva\\Source\\Repos\\ProductsApi\\ProductStockApi\\wwwroot\\",
+      "BasePath": "_content/ProductStockApi",
+      "RelativePath": "logs/05-09-2022_15-27-52.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\logs\\05-09-2022_15-27-52.txt"
+    }
+  ]
+}
